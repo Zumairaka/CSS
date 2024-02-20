@@ -1,0 +1,22 @@
+.card {
+  width: 450px;
+  margin: 30px auto;
+  margin-bottom: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border: solid 2px lightgray;
+  border-bottom: none;
+}
+
+.img {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.card-title {
+  width: 450px;
+  margin: 0px auto;
+  border: solid 2px lightgray;
+  /* border-top: none; */
+}

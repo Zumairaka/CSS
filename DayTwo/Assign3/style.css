@@ -1,0 +1,53 @@
+.card {
+  width: 650px;
+  margin: 50px auto;
+  border-radius: 15px;
+  position: relative;
+}
+
+.img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.inner-card {
+  position: absolute;
+  top: 90px;
+  left: 200px;
+}
+
+.header {
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 45px;
+  margin-bottom: 0px;
+}
+
+.caption {
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 18px;
+  margin-top: 0px;
+}
+
+.explore {
+  background-color: white;
+  width: 130px;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  margin-left: 150px;
+}
+
+.search {
+  width: 350px;
+  height: 40px;
+  background-color: white;
+  position: absolute;
+  border-radius: 10px;
+  padding-left: 30px;
+}
